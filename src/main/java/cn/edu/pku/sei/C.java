@@ -8,4 +8,9 @@ public class C extends B1 {
     public void m2(){
         System.out.println("I am a test method for override");
     }
+
+    public void m2(String s)
+    {
+        System.out.println(s);
+    }
 }
