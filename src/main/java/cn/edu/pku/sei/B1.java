@@ -1,6 +1,6 @@
 package cn.edu.pku.sei;
 
-public abstract class B {
+public abstract class B1 {
 
     public int a;
     public String s ;
