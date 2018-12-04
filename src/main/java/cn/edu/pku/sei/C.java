@@ -11,6 +11,7 @@ public class C extends B1 {
 
     public void m2(String s)
     {
+        m2();
         System.out.println(s);
     }
 }
