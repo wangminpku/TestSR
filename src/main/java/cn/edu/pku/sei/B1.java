@@ -4,7 +4,7 @@ public abstract class B1 {
 
     public int a;
     public String s ;
-    public void m1(){
+    public void m2(){
         System.out.println("I am a tset method");
     }
 
