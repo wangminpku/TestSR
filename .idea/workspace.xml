@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3a331f83-1008-46e2-ba0a-5e8aefd7f9dc" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/edu/pku/sei/D.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/edu/pku/sei/D.java" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -39,7 +39,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="C.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="C.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/pku/sei/C.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
@@ -47,19 +47,6 @@
               <folding>
                 <element signature="e#115#116#0" expanded="true" />
                 <element signature="e#184#185#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="D.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/pku/sei/D.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-              <folding>
-                <element signature="e#102#103#0" expanded="true" />
-                <element signature="e#140#141#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -291,7 +278,14 @@
       <option name="project" value="LOCAL" />
       <updated>1543936197187</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add class file">
+      <created>1544109003082</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1544109003082</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -332,7 +326,8 @@
     <MESSAGE value="rename class name" />
     <MESSAGE value="rename method name" />
     <MESSAGE value="add method" />
-    <option name="LAST_COMMIT_MESSAGE" value="add method" />
+    <MESSAGE value="add class file" />
+    <option name="LAST_COMMIT_MESSAGE" value="add class file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -434,10 +429,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
-          <folding>
-            <element signature="e#102#103#0" expanded="true" />
-            <element signature="e#140#141#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
