@@ -15,7 +15,7 @@ public class C extends B1 {
     }
 
 
-    public void m3()
+    public void m8()
     {
         D d = new D();
         String val = d.getVar2();
@@ -23,7 +23,7 @@ public class C extends B1 {
         //System.out.println(s);
     }
 
-    public void m3(String s){
+    public void m8(String s){
         System.out.println(s);
     }
 }

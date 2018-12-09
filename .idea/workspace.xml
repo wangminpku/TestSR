@@ -61,8 +61,8 @@
       <file leaf-file-name="C.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/pku/sei/C.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="613">
-              <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+            <state relative-caret-position="553">
+              <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
               <folding>
                 <element signature="e#115#116#0" expanded="true" />
                 <element signature="e#184#185#0" expanded="true" />
@@ -390,7 +390,14 @@
       <option name="project" value="LOCAL" />
       <updated>1544353297985</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="add a override method">
+      <created>1544354574599</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1544354574599</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -441,7 +448,8 @@
     <MESSAGE value="change call a abstract method var from its superclass" />
     <MESSAGE value="add a interface" />
     <MESSAGE value="change a interface method" />
-    <option name="LAST_COMMIT_MESSAGE" value="change a interface method" />
+    <MESSAGE value="add a override method" />
+    <option name="LAST_COMMIT_MESSAGE" value="add a override method" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -597,8 +605,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/pku/sei/C.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="613">
-          <caret line="29" column="0" lean-forward="true" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        <state relative-caret-position="553">
+          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
           <folding>
             <element signature="e#115#116#0" expanded="true" />
             <element signature="e#184#185#0" expanded="true" />
