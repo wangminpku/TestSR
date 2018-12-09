@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="3a331f83-1008-46e2-ba0a-5e8aefd7f9dc" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/edu/pku/sei/B1.java" afterPath="$PROJECT_DIR$/src/main/java/cn/edu/pku/sei/B1.java" />
       <change beforePath="$PROJECT_DIR$/src/main/java/cn/edu/pku/sei/C.java" afterPath="$PROJECT_DIR$/src/main/java/cn/edu/pku/sei/C.java" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/cn/edu/pku/sei/D.java" afterPath="$PROJECT_DIR$/src/main/java/cn/edu/pku/sei/D.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -27,11 +27,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="B1.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="B1.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/pku/sei/B1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+            <state relative-caret-position="330">
+              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding>
                 <element signature="e#113#114#0" expanded="true" />
                 <element signature="e#169#170#0" expanded="true" />
@@ -56,14 +56,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="C.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="C.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/pku/sei/C.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state relative-caret-position="450">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding>
                 <element signature="e#115#116#0" expanded="true" />
                 <element signature="e#184#185#0" expanded="true" />
+                <element signature="e#221#222#0" expanded="true" />
+                <element signature="e#258#259#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -91,15 +93,15 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/java/A.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/edu/pku/sei/B.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cn/edu/pku/sei/B1.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/edu/pku/sei/D.java" />
         <option value="$PROJECT_DIR$/src/main/java/cn/edu/pku/sei/C.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cn/edu/pku/sei/B1.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="22" />
+    <option name="y" value="43" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
@@ -330,11 +332,18 @@
       <option name="project" value="LOCAL" />
       <updated>1544344353134</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="change call a method from other class">
+      <created>1544344470210</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1544344470210</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="22" y="43" width="1936" height="1056" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -375,7 +384,8 @@
     <MESSAGE value="add class file" />
     <MESSAGE value="change a var name in the same file ,test def-use in same file" />
     <MESSAGE value="call a method from other class" />
-    <option name="LAST_COMMIT_MESSAGE" value="call a method from other class" />
+    <MESSAGE value="change call a method from other class" />
+    <option name="LAST_COMMIT_MESSAGE" value="change call a method from other class" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -408,6 +418,8 @@
           <folding>
             <element signature="e#115#116#0" expanded="true" />
             <element signature="e#184#185#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#258#259#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -427,6 +439,8 @@
           <folding>
             <element signature="e#115#116#0" expanded="true" />
             <element signature="e#184#185#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#258#259#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -468,6 +482,8 @@
           <folding>
             <element signature="e#115#116#0" expanded="true" />
             <element signature="e#184#185#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#258#259#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -478,17 +494,6 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/pku/sei/B1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-          <folding>
-            <element signature="e#113#114#0" expanded="true" />
-            <element signature="e#169#170#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -508,11 +513,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/pku/sei/C.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="450">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
             <element signature="e#115#116#0" expanded="true" />
             <element signature="e#184#185#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+            <element signature="e#258#259#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/pku/sei/B1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="e#113#114#0" expanded="true" />
+            <element signature="e#169#170#0" expanded="true" />
           </folding>
         </state>
       </provider>

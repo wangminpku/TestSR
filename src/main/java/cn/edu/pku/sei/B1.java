@@ -8,4 +8,6 @@ public abstract class B1 {
         System.out.println("I am a tset method");
     }
 
+    public abstract void m1();
+
 }

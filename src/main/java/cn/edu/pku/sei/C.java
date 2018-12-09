@@ -9,6 +9,12 @@ public class C extends B1 {
         System.out.println("I am a test method for override");
     }
 
+    @Override
+    public void m1(){
+        System.out.println(s);
+    }
+
+
     public void m3()
     {
         D d = new D();
