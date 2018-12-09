@@ -1,6 +1,6 @@
 package cn.edu.pku.sei;
 
-public class D {
+public class D implements AI{
 
     public String var2 = null;
 
@@ -14,5 +14,9 @@ public class D {
 
     public void UseVal(){
         System.out.println(var2);
+    }
+
+    public void m6() {
+        System.out.println("I am a method implement a interface");
     }
 }
