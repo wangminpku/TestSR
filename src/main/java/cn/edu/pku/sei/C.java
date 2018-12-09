@@ -9,11 +9,11 @@ public class C extends B1 {
         System.out.println("I am a test method for override");
     }
 
-    public void m2(String s)
+    public void m3()
     {
-       /* D d = new D();
-        String val = d.getVar1();*/
-        System.out.println(s);
+        D d = new D();
+        String val = d.getVar1();
+        System.out.println(val);
         //System.out.println(s);
     }
 }
