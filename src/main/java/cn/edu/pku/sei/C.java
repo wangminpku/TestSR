@@ -22,4 +22,8 @@ public class C extends B1 {
         System.out.println(val);
         //System.out.println(s);
     }
+
+    public void m3(String s){
+        System.out.println(s);
+    }
 }
