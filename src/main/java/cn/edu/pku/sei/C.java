@@ -11,7 +11,9 @@ public class C extends B1 {
 
     public void m2(String s)
     {
-        m2();
+       /* D d = new D();
+        String val = d.getVar1();*/
         System.out.println(s);
+        //System.out.println(s);
     }
 }
