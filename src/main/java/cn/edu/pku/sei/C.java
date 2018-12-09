@@ -10,7 +10,7 @@ public class C extends B1 {
     }
 
     @Override
-    public void m1(){
+    public void m4(){
         System.out.println(s);
     }
 
