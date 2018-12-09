@@ -4,7 +4,7 @@ public class D {
 
     public String var2 = null;
 
-    public String getVar1() {
+    public String getVar2() {
         return var2;
     }
 

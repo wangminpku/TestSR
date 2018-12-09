@@ -12,7 +12,7 @@ public class C extends B1 {
     public void m3()
     {
         D d = new D();
-        String val = d.getVar1();
+        String val = d.getVar2();
         System.out.println(val);
         //System.out.println(s);
     }

@@ -4,6 +4,7 @@
     <list default="true" id="3a331f83-1008-46e2-ba0a-5e8aefd7f9dc" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/src/main/java/cn/edu/pku/sei/C.java" afterPath="$PROJECT_DIR$/src/main/java/cn/edu/pku/sei/C.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/edu/pku/sei/D.java" afterPath="$PROJECT_DIR$/src/main/java/cn/edu/pku/sei/D.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -42,14 +43,13 @@
       <file leaf-file-name="D.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/pku/sei/D.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+            <state relative-caret-position="420">
+              <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
               <folding>
                 <element signature="e#103#104#0" expanded="true" />
                 <element signature="e#130#131#0" expanded="true" />
                 <element signature="e#170#171#0" expanded="true" />
                 <element signature="e#202#203#0" expanded="true" />
-                <element signature="e#229#230#0" expanded="true" />
                 <element signature="e#269#270#0" expanded="true" />
               </folding>
             </state>
@@ -323,7 +323,14 @@
       <option name="project" value="LOCAL" />
       <updated>1544343936828</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="call a method from other class">
+      <created>1544344353134</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1544344353134</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -367,7 +374,8 @@
     <MESSAGE value="delete class file" />
     <MESSAGE value="add class file" />
     <MESSAGE value="change a var name in the same file ,test def-use in same file" />
-    <option name="LAST_COMMIT_MESSAGE" value="change a var name in the same file ,test def-use in same file" />
+    <MESSAGE value="call a method from other class" />
+    <option name="LAST_COMMIT_MESSAGE" value="call a method from other class" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -486,14 +494,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cn/edu/pku/sei/D.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        <state relative-caret-position="420">
+          <caret line="14" column="25" lean-forward="true" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
           <folding>
             <element signature="e#103#104#0" expanded="true" />
             <element signature="e#130#131#0" expanded="true" />
             <element signature="e#170#171#0" expanded="true" />
             <element signature="e#202#203#0" expanded="true" />
-            <element signature="e#229#230#0" expanded="true" />
             <element signature="e#269#270#0" expanded="true" />
           </folding>
         </state>
