@@ -16,7 +16,7 @@ public class D implements AI{
         System.out.println(var2);
     }
 
-    public void m6() {
+    public void m7() {
         System.out.println("I am a method implement a interface");
     }
 }
