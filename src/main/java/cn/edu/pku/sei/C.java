@@ -1,6 +1,6 @@
 package cn.edu.pku.sei;
 
-public class C extends B1 {
+public class C extends B1{
 
     public int c;
     public String c1;
